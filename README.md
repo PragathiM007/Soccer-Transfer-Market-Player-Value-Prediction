@@ -85,7 +85,6 @@ This indicates the model is able to explain nearly 79% of the variance in player
 **Pragathi Porawakara Arachchige**  
 Final Project for DSC680 – Applied Data Science Capstone  
 📅 Updated: July 2025  
-📧 [Add contact info or portfolio if needed]
 
 ---
 
